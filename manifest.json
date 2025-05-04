@@ -5,12 +5,7 @@
     "permissions": ["scripting", "activeTab", "storage"],
     "action": {
       "default_popup": "popup.html",
-      "default_icon": "download.png"
-    },
-    "icons": {
-      "16": "download.png",
-      "48": "download.png",
-      "128": "download.png"
+      "default_icon": "book.png"
     },
     "content_scripts": [
       {
