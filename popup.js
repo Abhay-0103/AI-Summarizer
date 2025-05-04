@@ -92,9 +92,12 @@ async function getGeminiSummary(text, summaryType, apiKey) {
         body: JSON.stringify({
           contents: [
             {
-              parts: [{ text: prompt }] }],
+              parts: [{ text: prompt }],
+            },
+          ],
           generationConfig: {
-            temperature: 0.2},
+            temperature: 0.2,
+          },
         }),
       }
     );
