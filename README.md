@@ -95,8 +95,6 @@ For major changes, please open an issue first to discuss what you’d like to ch
 
 ---
 
----
-
 ## 🌟 Show Your Support
 
 Give a ⭐ if you found this helpful or want to support the project!
