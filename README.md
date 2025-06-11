@@ -98,10 +98,6 @@ For major changes, please open an issue first to discuss what you’d like to ch
 
 ---
 
-## 📄 License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
 ---
 
 ## 🌟 Show Your Support
@@ -109,5 +105,3 @@ This project is open-source and available under the [MIT License](LICENSE).
 Give a ⭐ if you found this helpful or want to support the project!
 
 ---
-
-Let me know if you want a logo, better demo GIF, or badges (like "Made with JS", "MIT license", etc.) added!
