@@ -1,5 +1,3 @@
----
-
 # 🧠 Summarizer Extension
 
 A Chrome extension that summarizes the content of any article or webpage using AI! This tool helps users quickly understand lengthy content without reading the entire page.
@@ -12,8 +10,7 @@ A Chrome extension that summarizes the content of any article or webpage using A
 * 🧩 Simple, lightweight Chrome extension
 * ⚡ One-click summary generation
 * 🎯 Useful for students, professionals, and researchers
-
----
+  
 
 ## 🛠️ Tech Stack
 
